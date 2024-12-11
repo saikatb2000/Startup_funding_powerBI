@@ -59,4 +59,4 @@ The data used in this project includes investment data from various sources such
   <li>Power BI/Tableau: For data visualization.</li>
 </ul>
 
-<h5>[Github Repo Link:] (https://github.com/saikatb2000/Startup_funding_powerBI)</h5>
+<h5>[Github Repo Link: https://github.com/saikatb2000/Startup_funding_powerBI]</h5>
