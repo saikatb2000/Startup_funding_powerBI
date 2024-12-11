@@ -1,7 +1,7 @@
 # Indian Startup Investment Dashboard
 This project visualizes the investment trends in Indian startups between the years 2015 and 2020. The dashboard provides insights into various aspects of the investment landscape, such as top investors, city-wise investments, and industry segments.
 
-![image](https://github.com/user-attachments/assets/d7a500c0-7ee5-404d-b87e-98904dbc3793)
+![image](https://github.com/saikatb2000/Startup_funding_powerBI/blob/main/Power_BI.gif)
 
 
 <h4>Project Overview</h4>
