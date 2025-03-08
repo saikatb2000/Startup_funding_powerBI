@@ -54,7 +54,7 @@ This dashboard aims to help users understand:
   <li>If your startup is in fintech or e-commerce → Vijay Shekhar Sharma</li>
 </ul>
 
----
+<hr>
 </ol>
 <h4>How to Run the Project</h4>
 Open the dashboard using your preferred visualization tool (e.g., Power BI, Tableau, or Looker Studio).
