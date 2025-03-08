@@ -41,16 +41,16 @@ This dashboard aims to help users understand:
 <h3>Solution:</h3>
 <h4>Top Investors & Their Investment Amounts</h4>
 <ul>
-<li>Softbank – $2.5 billion (Large-scale funding, suitable for high-growth startups)</li>
-<li></ol>Microsoft, eBay, Tencent Holdings – $1.4 billion (Tech-focused, strategic investors)</li>
-<li>Vijay Shekhar Sharma – $1 billion (Likely focuses on fintech and digital startups)</li>
+  <li>Softbank – $2.5 billion (Large-scale funding, suitable for high-growth startups)</li>
+  <li></ol>Microsoft, eBay, Tencent Holdings – $1.4 billion (Tech-focused, strategic investors)</li>
+  <li>Vijay Shekhar Sharma – $1 billion (Likely focuses on fintech and digital startups)</li>
 </ul>
   
 <h4>Investor Selection Criteria:</h4>
 <ul>
-<li></li>If your startup is in technology, software, or cloud services → Microsoft, Tencent, eBay</li>
-<li>If you need large-scale investment and global expansion → Softbank</li>
-<li>If your startup is in fintech or e-commerce → Vijay Shekhar Sharma</li>
+  <li></li>If your startup is in technology, software, or cloud services → Microsoft, Tencent, eBay</li>
+  <li>If you need large-scale investment and global expansion → Softbank</li>
+  <li>If your startup is in fintech or e-commerce → Vijay Shekhar Sharma</li>
 </ul>
 
 ---
