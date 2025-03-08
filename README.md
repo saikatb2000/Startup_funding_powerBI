@@ -1,5 +1,7 @@
 # Indian Startup Investment Dashboard
-This project visualizes the investment trends in Indian startups between the years 2015 and 2020. The dashboard provides insights into various aspects of the investment landscape, such as top investors, city-wise investments, and industry segments.
+This project visualizes the investment trends in Indian startups between 2015 and 2020. The dashboard provides insights into various aspects of the investment landscape, such as top investors, city-wise investments, and industry segments.
+
+## Question: Which investor is good to invest in a startup?
 
 ![Power BI GIF](https://raw.githubusercontent.com/saikatb2000/Startup_funding_powerBI/main/Power_BI.gif)
 
@@ -49,6 +51,17 @@ The data used in this project includes investment data from various sources such
   <li>Pie Charts: Visualize the types of investments, sub-verticals, and industry segments.</li>
   <li>Interactive Elements: The dashboard allows users to interact with the data for a deeper exploration.</li>
 </ul>
+
+### Solution: 
+**Top Investors & Their Investment Amounts**
+- Softbank – $2.5 billion (Large-scale funding, suitable for high-growth startups)
+- Microsoft, eBay, Tencent Holdings – $1.4 billion (Tech-focused, strategic investors)
+- Vijay Shekhar Sharma – $1 billion (Likely focuses on fintech and digital startups)
+  
+**Investor Selection Criteria:**
+- If your startup is in technology, software, or cloud services → Microsoft, Tencent, eBay
+- If you need large-scale investment and global expansion → Softbank
+- If your startup is in fintech or e-commerce → Vijay Shekhar Sharma
 
 
 
