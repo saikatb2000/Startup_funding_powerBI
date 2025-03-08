@@ -37,7 +37,19 @@ This dashboard aims to help users understand:
   </li>
   <li>Investment Types: The majority of the investment went into high-growth startups, with 52.7% of the funds falling in the largest category of investment.</li>
   <li>Sub-Verticals: The investments are categorized into various sub-verticals, with the highest being 3.9 billion USD, covering nearly 33.89% of the total.</li>
+
+  ### Solution: 
+**Top Investors & Their Investment Amounts**
+- Softbank – $2.5 billion (Large-scale funding, suitable for high-growth startups)
+- Microsoft, eBay, Tencent Holdings – $1.4 billion (Tech-focused, strategic investors)
+- Vijay Shekhar Sharma – $1 billion (Likely focuses on fintech and digital startups)
   
+**Investor Selection Criteria:**
+- If your startup is in technology, software, or cloud services → Microsoft, Tencent, eBay
+- If you need large-scale investment and global expansion → Softbank
+- If your startup is in fintech or e-commerce → Vijay Shekhar Sharma
+
+---
 </ol>
 <h4>How to Run the Project</h4>
 Open the dashboard using your preferred visualization tool (e.g., Power BI, Tableau, or Looker Studio).
@@ -51,20 +63,6 @@ The data used in this project includes investment data from various sources such
   <li>Pie Charts: Visualize the types of investments, sub-verticals, and industry segments.</li>
   <li>Interactive Elements: The dashboard allows users to interact with the data for a deeper exploration.</li>
 </ul>
-
-### Solution: 
-**Top Investors & Their Investment Amounts**
-- Softbank – $2.5 billion (Large-scale funding, suitable for high-growth startups)
-- Microsoft, eBay, Tencent Holdings – $1.4 billion (Tech-focused, strategic investors)
-- Vijay Shekhar Sharma – $1 billion (Likely focuses on fintech and digital startups)
-  
-**Investor Selection Criteria:**
-- If your startup is in technology, software, or cloud services → Microsoft, Tencent, eBay
-- If you need large-scale investment and global expansion → Softbank
-- If your startup is in fintech or e-commerce → Vijay Shekhar Sharma
-
-
-
 
 <h4>Tech Stack</h4>
 <ul>
